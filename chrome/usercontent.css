@@ -1,0 +1,10 @@
+@-moz-document url("about:newtab") {
+    .content {
+        margin-top: 30px;
+    }
+
+    .top-site-outer {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}

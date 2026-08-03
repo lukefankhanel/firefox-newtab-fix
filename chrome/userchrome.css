@@ -1,0 +1,4 @@
+#urlbar-input::selection {  
+    background-color: #18b3b6b7 !important;
+    color: white !important;
+}

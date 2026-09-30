@@ -1,8 +1,21 @@
 @-moz-document url("about:newtab") {
+
+    /* New Tab Background Color */
+    body {
+        background-color: #2b2a33 !important;
+    }
+
+    /* New Tab Icon Background Color */
+    .top-site-outer .tile {
+        background-color: #3f3d48 !important;
+    }
+
+    /* New Tab All content margins (For correct spacing) */
     .content {
         margin-top: 30px;
     }
 
+    /* New Tab Shortcut margins (For correct spacing) */
     .top-site-outer {
         margin-left: 10px;
         margin-right: 10px;

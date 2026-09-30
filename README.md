@@ -8,6 +8,7 @@ Note: As of 2026-08-03, this Repository is becoming more of a general CSS fix fo
 
 - Fix NewTab icon spacing
 - Fix top Search Bar not allowing text highlighting
+- Fix the Background Color being too dark
 
 ## Installation
 
